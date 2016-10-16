@@ -3,3 +3,6 @@ C:\JSTrenning\CSharp\Intro-Programming-Homework\PrintLongSequence\PrintLongSeque
 C:\JSTrenning\CSharp\Intro-Programming-Homework\PrintLongSequence\PrintLongSequence\bin\Debug\PrintLongSequence.pdb
 C:\JSTrenning\CSharp\Intro-Programming-Homework\PrintLongSequence\PrintLongSequence\obj\Debug\PrintLongSequence.exe
 C:\JSTrenning\CSharp\Intro-Programming-Homework\PrintLongSequence\PrintLongSequence\obj\Debug\PrintLongSequence.pdb
+C:\JSTrenning\TelerikAcademyCSharp\PrintLongSequence\PrintLongSequence\bin\Debug\PrintLongSequence.exe.config
+C:\JSTrenning\TelerikAcademyCSharp\PrintLongSequence\PrintLongSequence\obj\Debug\PrintLongSequence.exe
+C:\JSTrenning\TelerikAcademyCSharp\PrintLongSequence\PrintLongSequence\obj\Debug\PrintLongSequence.pdb
