@@ -1,0 +1,9 @@
+C:\JSTrenning\CSharp\Intro-Programming-Homework\SquareRoot\SquareRoot\bin\Debug\SquareRoot.exe.config
+C:\JSTrenning\CSharp\Intro-Programming-Homework\SquareRoot\SquareRoot\bin\Debug\SquareRoot.exe
+C:\JSTrenning\CSharp\Intro-Programming-Homework\SquareRoot\SquareRoot\bin\Debug\SquareRoot.pdb
+C:\JSTrenning\CSharp\Intro-Programming-Homework\SquareRoot\SquareRoot\obj\Debug\SquareRoot.csprojResolveAssemblyReference.cache
+C:\JSTrenning\CSharp\Intro-Programming-Homework\SquareRoot\SquareRoot\obj\Debug\SquareRoot.exe
+C:\JSTrenning\CSharp\Intro-Programming-Homework\SquareRoot\SquareRoot\obj\Debug\SquareRoot.pdb
+C:\JSTrenning\TelerikAcademyCSharp\SquareRoot\SquareRoot\bin\Debug\SquareRoot.exe.config
+C:\JSTrenning\TelerikAcademyCSharp\SquareRoot\SquareRoot\obj\Debug\SquareRoot.exe
+C:\JSTrenning\TelerikAcademyCSharp\SquareRoot\SquareRoot\obj\Debug\SquareRoot.pdb

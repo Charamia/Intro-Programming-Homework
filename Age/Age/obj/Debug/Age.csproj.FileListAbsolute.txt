@@ -1,0 +1,6 @@
+C:\JSTrenning\CSharp\Intro-Programming-Homework\Age\Age\bin\Debug\Age.exe
+C:\JSTrenning\CSharp\Intro-Programming-Homework\Age\Age\bin\Debug\Age.exe.config
+C:\JSTrenning\CSharp\Intro-Programming-Homework\Age\Age\bin\Debug\Age.pdb
+C:\JSTrenning\CSharp\Intro-Programming-Homework\Age\Age\obj\Debug\Age.csprojResolveAssemblyReference.cache
+C:\JSTrenning\CSharp\Intro-Programming-Homework\Age\Age\obj\Debug\Age.exe
+C:\JSTrenning\CSharp\Intro-Programming-Homework\Age\Age\obj\Debug\Age.pdb

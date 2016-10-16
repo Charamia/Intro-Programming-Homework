@@ -1,0 +1,8 @@
+C:\JSTrenning\CSharp\Intro-Programming-Homework\PrintNumbers\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\JSTrenning\CSharp\Intro-Programming-Homework\PrintNumbers\PrintNumbers\bin\Debug\PrintNumbers.exe
+C:\JSTrenning\CSharp\Intro-Programming-Homework\PrintNumbers\PrintNumbers\bin\Debug\PrintNumbers.pdb
+C:\JSTrenning\CSharp\Intro-Programming-Homework\PrintNumbers\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\JSTrenning\CSharp\Intro-Programming-Homework\PrintNumbers\PrintNumbers\obj\Debug\PrintNumbers.pdb
+C:\JSTrenning\TelerikAcademyCSharp\PrintNumbers\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\JSTrenning\TelerikAcademyCSharp\PrintNumbers\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\JSTrenning\TelerikAcademyCSharp\PrintNumbers\PrintNumbers\obj\Debug\PrintNumbers.pdb

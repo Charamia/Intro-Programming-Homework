@@ -1,0 +1,8 @@
+C:\JSTrenning\CSharp\Intro-Programming-Homework\PrintMyName\PrintMyName\bin\Debug\PrintMyName.exe.config
+C:\JSTrenning\CSharp\Intro-Programming-Homework\PrintMyName\PrintMyName\bin\Debug\PrintMyName.exe
+C:\JSTrenning\CSharp\Intro-Programming-Homework\PrintMyName\PrintMyName\bin\Debug\PrintMyName.pdb
+C:\JSTrenning\CSharp\Intro-Programming-Homework\PrintMyName\PrintMyName\obj\Debug\PrintMyName.exe
+C:\JSTrenning\CSharp\Intro-Programming-Homework\PrintMyName\PrintMyName\obj\Debug\PrintMyName.pdb
+C:\JSTrenning\TelerikAcademyCSharp\PrintMyName\PrintMyName\bin\Debug\PrintMyName.exe.config
+C:\JSTrenning\TelerikAcademyCSharp\PrintMyName\PrintMyName\obj\Debug\PrintMyName.exe
+C:\JSTrenning\TelerikAcademyCSharp\PrintMyName\PrintMyName\obj\Debug\PrintMyName.pdb

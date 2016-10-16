@@ -1,0 +1,5 @@
+C:\JSTrenning\CSharp\Intro-Programming-Homework\PrintLongSequence\PrintLongSequence\bin\Debug\PrintLongSequence.exe.config
+C:\JSTrenning\CSharp\Intro-Programming-Homework\PrintLongSequence\PrintLongSequence\bin\Debug\PrintLongSequence.exe
+C:\JSTrenning\CSharp\Intro-Programming-Homework\PrintLongSequence\PrintLongSequence\bin\Debug\PrintLongSequence.pdb
+C:\JSTrenning\CSharp\Intro-Programming-Homework\PrintLongSequence\PrintLongSequence\obj\Debug\PrintLongSequence.exe
+C:\JSTrenning\CSharp\Intro-Programming-Homework\PrintLongSequence\PrintLongSequence\obj\Debug\PrintLongSequence.pdb
