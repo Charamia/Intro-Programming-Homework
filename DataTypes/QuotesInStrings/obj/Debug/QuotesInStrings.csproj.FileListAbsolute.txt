@@ -1,0 +1,1 @@
+C:\JSTrenning\TelerikAcademyCSharp\DataTypes\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config

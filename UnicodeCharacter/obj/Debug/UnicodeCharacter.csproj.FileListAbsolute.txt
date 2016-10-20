@@ -1,0 +1,1 @@
+C:\JSTrenning\TelerikAcademyCSharp\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config

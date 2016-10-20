@@ -1,0 +1,5 @@
+C:\JSTrenning\TelerikAcademyCSharp\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+C:\JSTrenning\TelerikAcademyCSharp\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+C:\JSTrenning\TelerikAcademyCSharp\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
+C:\JSTrenning\TelerikAcademyCSharp\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+C:\JSTrenning\TelerikAcademyCSharp\FloatOrDouble\obj\Debug\FloatOrDouble.pdb

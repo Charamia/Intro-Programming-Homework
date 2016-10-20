@@ -1,0 +1,6 @@
+C:\JSTrenning\TelerikAcademyCSharp\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe.config
+C:\JSTrenning\TelerikAcademyCSharp\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe
+C:\JSTrenning\TelerikAcademyCSharp\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.pdb
+C:\JSTrenning\TelerikAcademyCSharp\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.csprojResolveAssemblyReference.cache
+C:\JSTrenning\TelerikAcademyCSharp\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.exe
+C:\JSTrenning\TelerikAcademyCSharp\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.pdb

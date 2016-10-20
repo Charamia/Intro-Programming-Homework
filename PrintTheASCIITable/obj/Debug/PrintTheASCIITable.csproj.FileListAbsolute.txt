@@ -1,0 +1,6 @@
+C:\JSTrenning\TelerikAcademyCSharp\PrintTheASCIITable\bin\Debug\PrintTheASCIITable.exe.config
+C:\JSTrenning\TelerikAcademyCSharp\PrintTheASCIITable\bin\Debug\PrintTheASCIITable.exe
+C:\JSTrenning\TelerikAcademyCSharp\PrintTheASCIITable\bin\Debug\PrintTheASCIITable.pdb
+C:\JSTrenning\TelerikAcademyCSharp\PrintTheASCIITable\obj\Debug\PrintTheASCIITable.csprojResolveAssemblyReference.cache
+C:\JSTrenning\TelerikAcademyCSharp\PrintTheASCIITable\obj\Debug\PrintTheASCIITable.exe
+C:\JSTrenning\TelerikAcademyCSharp\PrintTheASCIITable\obj\Debug\PrintTheASCIITable.pdb

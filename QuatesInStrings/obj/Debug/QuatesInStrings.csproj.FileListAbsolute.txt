@@ -1,0 +1,6 @@
+C:\JSTrenning\TelerikAcademyCSharp\QuatesInStrings\bin\Debug\QuatesInStrings.exe.config
+C:\JSTrenning\TelerikAcademyCSharp\QuatesInStrings\bin\Debug\QuatesInStrings.exe
+C:\JSTrenning\TelerikAcademyCSharp\QuatesInStrings\bin\Debug\QuatesInStrings.pdb
+C:\JSTrenning\TelerikAcademyCSharp\QuatesInStrings\obj\Debug\QuatesInStrings.csprojResolveAssemblyReference.cache
+C:\JSTrenning\TelerikAcademyCSharp\QuatesInStrings\obj\Debug\QuatesInStrings.exe
+C:\JSTrenning\TelerikAcademyCSharp\QuatesInStrings\obj\Debug\QuatesInStrings.pdb
