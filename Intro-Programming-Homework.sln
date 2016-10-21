@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComparingFloats", "Comparin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintTheASCIITable", "PrintTheASCIITable\PrintTheASCIITable.csproj", "{1AB522EE-5241-4EEF-A35F-7E1C520172CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings and Objects", "..\CSharp\Intro-Programming-Homework\Strings and Objects\Strings and Objects.csproj", "{EC4C46AE-958E-40CC-921B-7A5A65A87F02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -103,6 +105,10 @@ Global
 		{1AB522EE-5241-4EEF-A35F-7E1C520172CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AB522EE-5241-4EEF-A35F-7E1C520172CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AB522EE-5241-4EEF-A35F-7E1C520172CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC4C46AE-958E-40CC-921B-7A5A65A87F02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC4C46AE-958E-40CC-921B-7A5A65A87F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC4C46AE-958E-40CC-921B-7A5A65A87F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC4C46AE-958E-40CC-921B-7A5A65A87F02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -123,5 +129,6 @@ Global
 		{3135B96B-BDF7-4289-BBDB-16BB13FC967D} = {65482CD2-B02C-488A-8DEB-9B51B43AEC97}
 		{13B00BF5-34A4-4A54-A2D0-D73EE4E1F454} = {65482CD2-B02C-488A-8DEB-9B51B43AEC97}
 		{1AB522EE-5241-4EEF-A35F-7E1C520172CE} = {65482CD2-B02C-488A-8DEB-9B51B43AEC97}
+		{EC4C46AE-958E-40CC-921B-7A5A65A87F02} = {65482CD2-B02C-488A-8DEB-9B51B43AEC97}
 	EndGlobalSection
 EndGlobal
