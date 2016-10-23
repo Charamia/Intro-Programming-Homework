@@ -1,0 +1,6 @@
+C:\JSTrenning\TelerikAcademyCSharp\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe.config
+C:\JSTrenning\TelerikAcademyCSharp\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe
+C:\JSTrenning\TelerikAcademyCSharp\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.pdb
+C:\JSTrenning\TelerikAcademyCSharp\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.csprojResolveAssemblyReference.cache
+C:\JSTrenning\TelerikAcademyCSharp\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.exe
+C:\JSTrenning\TelerikAcademyCSharp\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.pdb

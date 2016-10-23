@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringsAndObjects", "..\CSh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeData", "..\CSharp\Intro-Programming-Homework\EmployeeData\EmployeeData.csproj", "{C8B52EC9-902A-4B45-97EC-18DADC545FD9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeVariableValues", "..\CSharp\Intro-Programming-Homework\ExchangeVariableValues\ExchangeVariableValues.csproj", "{8552B66A-147F-45BC-8CBC-1E88BFECE2ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsoscelesTriangle", "IsoscelesTriangle\IsoscelesTriangle.csproj", "{46DA5994-7B3D-4534-B2EC-82FB02504BFA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -115,6 +119,14 @@ Global
 		{C8B52EC9-902A-4B45-97EC-18DADC545FD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8B52EC9-902A-4B45-97EC-18DADC545FD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8B52EC9-902A-4B45-97EC-18DADC545FD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8552B66A-147F-45BC-8CBC-1E88BFECE2ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8552B66A-147F-45BC-8CBC-1E88BFECE2ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8552B66A-147F-45BC-8CBC-1E88BFECE2ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8552B66A-147F-45BC-8CBC-1E88BFECE2ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46DA5994-7B3D-4534-B2EC-82FB02504BFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46DA5994-7B3D-4534-B2EC-82FB02504BFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46DA5994-7B3D-4534-B2EC-82FB02504BFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46DA5994-7B3D-4534-B2EC-82FB02504BFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -137,5 +149,7 @@ Global
 		{1AB522EE-5241-4EEF-A35F-7E1C520172CE} = {65482CD2-B02C-488A-8DEB-9B51B43AEC97}
 		{EC4C46AE-958E-40CC-921B-7A5A65A87F02} = {65482CD2-B02C-488A-8DEB-9B51B43AEC97}
 		{C8B52EC9-902A-4B45-97EC-18DADC545FD9} = {65482CD2-B02C-488A-8DEB-9B51B43AEC97}
+		{8552B66A-147F-45BC-8CBC-1E88BFECE2ED} = {65482CD2-B02C-488A-8DEB-9B51B43AEC97}
+		{46DA5994-7B3D-4534-B2EC-82FB02504BFA} = {65482CD2-B02C-488A-8DEB-9B51B43AEC97}
 	EndGlobalSection
 EndGlobal
