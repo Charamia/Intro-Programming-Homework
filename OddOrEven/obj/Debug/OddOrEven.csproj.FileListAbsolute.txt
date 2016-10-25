@@ -1,0 +1,6 @@
+C:\JSTrenning\TelerikAcademyCSharp\OddOrEven\bin\Debug\OddOrEven.exe.config
+C:\JSTrenning\TelerikAcademyCSharp\OddOrEven\bin\Debug\OddOrEven.exe
+C:\JSTrenning\TelerikAcademyCSharp\OddOrEven\bin\Debug\OddOrEven.pdb
+C:\JSTrenning\TelerikAcademyCSharp\OddOrEven\obj\Debug\OddOrEven.csprojResolveAssemblyReference.cache
+C:\JSTrenning\TelerikAcademyCSharp\OddOrEven\obj\Debug\OddOrEven.exe
+C:\JSTrenning\TelerikAcademyCSharp\OddOrEven\obj\Debug\OddOrEven.pdb

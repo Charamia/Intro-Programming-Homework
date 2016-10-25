@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{619769A8-9B0A-4211-8F23-CF43CAC98C98}</ProjectGuid>
+    <ProjectGuid>{7BFC1182-4B5D-43B9-A1A0-3B62AE470488}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>HelloCSharp</RootNamespace>
-    <AssemblyName>HelloCSharp</AssemblyName>
+    <RootNamespace>OddOrEven</RootNamespace>
+    <AssemblyName>OddOrEven</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Age.cs" />
-    <Compile Include="HelloCSharp.cs" />
+    <Compile Include="OddOrEven.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

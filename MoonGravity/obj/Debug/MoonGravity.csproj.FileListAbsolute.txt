@@ -1,0 +1,6 @@
+C:\JSTrenning\TelerikAcademyCSharp\MoonGravity\bin\Debug\MoonGravity.exe.config
+C:\JSTrenning\TelerikAcademyCSharp\MoonGravity\bin\Debug\MoonGravity.exe
+C:\JSTrenning\TelerikAcademyCSharp\MoonGravity\bin\Debug\MoonGravity.pdb
+C:\JSTrenning\TelerikAcademyCSharp\MoonGravity\obj\Debug\MoonGravity.csprojResolveAssemblyReference.cache
+C:\JSTrenning\TelerikAcademyCSharp\MoonGravity\obj\Debug\MoonGravity.exe
+C:\JSTrenning\TelerikAcademyCSharp\MoonGravity\obj\Debug\MoonGravity.pdb
