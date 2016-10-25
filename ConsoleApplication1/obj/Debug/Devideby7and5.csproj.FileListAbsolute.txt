@@ -1,0 +1,5 @@
+C:\JSTrenning\TelerikAcademyCSharp\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\JSTrenning\TelerikAcademyCSharp\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\JSTrenning\TelerikAcademyCSharp\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\JSTrenning\TelerikAcademyCSharp\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\JSTrenning\TelerikAcademyCSharp\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
