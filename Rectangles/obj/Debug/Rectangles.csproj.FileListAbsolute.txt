@@ -1,0 +1,6 @@
+C:\JSTrenning\TelerikAcademyCSharp\Rectangles\bin\Debug\Rectangles.exe.config
+C:\JSTrenning\TelerikAcademyCSharp\Rectangles\bin\Debug\Rectangles.exe
+C:\JSTrenning\TelerikAcademyCSharp\Rectangles\bin\Debug\Rectangles.pdb
+C:\JSTrenning\TelerikAcademyCSharp\Rectangles\obj\Debug\Rectangles.csprojResolveAssemblyReference.cache
+C:\JSTrenning\TelerikAcademyCSharp\Rectangles\obj\Debug\Rectangles.exe
+C:\JSTrenning\TelerikAcademyCSharp\Rectangles\obj\Debug\Rectangles.pdb
