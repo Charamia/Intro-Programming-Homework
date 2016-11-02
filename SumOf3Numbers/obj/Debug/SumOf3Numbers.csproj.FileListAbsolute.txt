@@ -1,0 +1,6 @@
+C:\JSTrenning\TelerikAcademyCSharp\SumOf3Numbers\bin\Debug\SumOf3Numbers.exe.config
+C:\JSTrenning\TelerikAcademyCSharp\SumOf3Numbers\bin\Debug\SumOf3Numbers.exe
+C:\JSTrenning\TelerikAcademyCSharp\SumOf3Numbers\bin\Debug\SumOf3Numbers.pdb
+C:\JSTrenning\TelerikAcademyCSharp\SumOf3Numbers\obj\Debug\SumOf3Numbers.csprojResolveAssemblyReference.cache
+C:\JSTrenning\TelerikAcademyCSharp\SumOf3Numbers\obj\Debug\SumOf3Numbers.exe
+C:\JSTrenning\TelerikAcademyCSharp\SumOf3Numbers\obj\Debug\SumOf3Numbers.pdb

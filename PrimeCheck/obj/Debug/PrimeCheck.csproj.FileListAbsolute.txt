@@ -1,0 +1,6 @@
+C:\JSTrenning\TelerikAcademyCSharp\PrimeCheck\bin\Debug\PrimeCheck.exe.config
+C:\JSTrenning\TelerikAcademyCSharp\PrimeCheck\bin\Debug\PrimeCheck.exe
+C:\JSTrenning\TelerikAcademyCSharp\PrimeCheck\bin\Debug\PrimeCheck.pdb
+C:\JSTrenning\TelerikAcademyCSharp\PrimeCheck\obj\Debug\PrimeCheck.csprojResolveAssemblyReference.cache
+C:\JSTrenning\TelerikAcademyCSharp\PrimeCheck\obj\Debug\PrimeCheck.exe
+C:\JSTrenning\TelerikAcademyCSharp\PrimeCheck\obj\Debug\PrimeCheck.pdb

@@ -1,0 +1,6 @@
+C:\JSTrenning\TelerikAcademyCSharp\ThirdBit\bin\Debug\ThirdBit.exe.config
+C:\JSTrenning\TelerikAcademyCSharp\ThirdBit\bin\Debug\ThirdBit.exe
+C:\JSTrenning\TelerikAcademyCSharp\ThirdBit\bin\Debug\ThirdBit.pdb
+C:\JSTrenning\TelerikAcademyCSharp\ThirdBit\obj\Debug\ThirdBit.csprojResolveAssemblyReference.cache
+C:\JSTrenning\TelerikAcademyCSharp\ThirdBit\obj\Debug\ThirdBit.exe
+C:\JSTrenning\TelerikAcademyCSharp\ThirdBit\obj\Debug\ThirdBit.pdb

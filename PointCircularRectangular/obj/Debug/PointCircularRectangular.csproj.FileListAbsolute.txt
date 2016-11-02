@@ -1,0 +1,6 @@
+C:\JSTrenning\TelerikAcademyCSharp\PointCircularRectangular\bin\Debug\PointCircularRectangular.exe.config
+C:\JSTrenning\TelerikAcademyCSharp\PointCircularRectangular\bin\Debug\PointCircularRectangular.exe
+C:\JSTrenning\TelerikAcademyCSharp\PointCircularRectangular\bin\Debug\PointCircularRectangular.pdb
+C:\JSTrenning\TelerikAcademyCSharp\PointCircularRectangular\obj\Debug\PointCircularRectangular.csprojResolveAssemblyReference.cache
+C:\JSTrenning\TelerikAcademyCSharp\PointCircularRectangular\obj\Debug\PointCircularRectangular.exe
+C:\JSTrenning\TelerikAcademyCSharp\PointCircularRectangular\obj\Debug\PointCircularRectangular.pdb

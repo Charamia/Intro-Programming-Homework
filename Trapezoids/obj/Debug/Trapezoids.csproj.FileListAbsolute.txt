@@ -1,0 +1,6 @@
+C:\JSTrenning\TelerikAcademyCSharp\Trapezoids\bin\Debug\Trapezoids.exe.config
+C:\JSTrenning\TelerikAcademyCSharp\Trapezoids\bin\Debug\Trapezoids.exe
+C:\JSTrenning\TelerikAcademyCSharp\Trapezoids\bin\Debug\Trapezoids.pdb
+C:\JSTrenning\TelerikAcademyCSharp\Trapezoids\obj\Debug\Trapezoids.csprojResolveAssemblyReference.cache
+C:\JSTrenning\TelerikAcademyCSharp\Trapezoids\obj\Debug\Trapezoids.exe
+C:\JSTrenning\TelerikAcademyCSharp\Trapezoids\obj\Debug\Trapezoids.pdb

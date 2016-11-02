@@ -1,0 +1,6 @@
+C:\JSTrenning\TelerikAcademyCSharp\PointInACircle\bin\Debug\PointInACircle.exe.config
+C:\JSTrenning\TelerikAcademyCSharp\PointInACircle\bin\Debug\PointInACircle.exe
+C:\JSTrenning\TelerikAcademyCSharp\PointInACircle\bin\Debug\PointInACircle.pdb
+C:\JSTrenning\TelerikAcademyCSharp\PointInACircle\obj\Debug\PointInACircle.csprojResolveAssemblyReference.cache
+C:\JSTrenning\TelerikAcademyCSharp\PointInACircle\obj\Debug\PointInACircle.exe
+C:\JSTrenning\TelerikAcademyCSharp\PointInACircle\obj\Debug\PointInACircle.pdb

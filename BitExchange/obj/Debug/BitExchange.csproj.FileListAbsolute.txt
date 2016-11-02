@@ -1,0 +1,6 @@
+C:\JSTrenning\TelerikAcademyCSharp\BitExchange\bin\Debug\BitExchange.exe.config
+C:\JSTrenning\TelerikAcademyCSharp\BitExchange\bin\Debug\BitExchange.exe
+C:\JSTrenning\TelerikAcademyCSharp\BitExchange\bin\Debug\BitExchange.pdb
+C:\JSTrenning\TelerikAcademyCSharp\BitExchange\obj\Debug\BitExchange.csprojResolveAssemblyReference.cache
+C:\JSTrenning\TelerikAcademyCSharp\BitExchange\obj\Debug\BitExchange.exe
+C:\JSTrenning\TelerikAcademyCSharp\BitExchange\obj\Debug\BitExchange.pdb

@@ -1,0 +1,6 @@
+C:\JSTrenning\TelerikAcademyCSharp\FourDigits\bin\Debug\FourDigits.exe.config
+C:\JSTrenning\TelerikAcademyCSharp\FourDigits\bin\Debug\FourDigits.exe
+C:\JSTrenning\TelerikAcademyCSharp\FourDigits\bin\Debug\FourDigits.pdb
+C:\JSTrenning\TelerikAcademyCSharp\FourDigits\obj\Debug\FourDigits.csprojResolveAssemblyReference.cache
+C:\JSTrenning\TelerikAcademyCSharp\FourDigits\obj\Debug\FourDigits.exe
+C:\JSTrenning\TelerikAcademyCSharp\FourDigits\obj\Debug\FourDigits.pdb

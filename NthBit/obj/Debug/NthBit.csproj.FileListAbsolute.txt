@@ -1,0 +1,6 @@
+C:\JSTrenning\TelerikAcademyCSharp\NthBit\bin\Debug\NthBit.exe.config
+C:\JSTrenning\TelerikAcademyCSharp\NthBit\bin\Debug\NthBit.exe
+C:\JSTrenning\TelerikAcademyCSharp\NthBit\bin\Debug\NthBit.pdb
+C:\JSTrenning\TelerikAcademyCSharp\NthBit\obj\Debug\NthBit.csprojResolveAssemblyReference.cache
+C:\JSTrenning\TelerikAcademyCSharp\NthBit\obj\Debug\NthBit.exe
+C:\JSTrenning\TelerikAcademyCSharp\NthBit\obj\Debug\NthBit.pdb

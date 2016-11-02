@@ -1,0 +1,6 @@
+C:\JSTrenning\TelerikAcademyCSharp\ModifyBit\bin\Debug\ModifyBit.exe.config
+C:\JSTrenning\TelerikAcademyCSharp\ModifyBit\bin\Debug\ModifyBit.exe
+C:\JSTrenning\TelerikAcademyCSharp\ModifyBit\bin\Debug\ModifyBit.pdb
+C:\JSTrenning\TelerikAcademyCSharp\ModifyBit\obj\Debug\ModifyBit.exe
+C:\JSTrenning\TelerikAcademyCSharp\ModifyBit\obj\Debug\ModifyBit.pdb
+C:\JSTrenning\TelerikAcademyCSharp\ModifyBit\obj\Debug\ModifyBit.csprojResolveAssemblyReference.cache
