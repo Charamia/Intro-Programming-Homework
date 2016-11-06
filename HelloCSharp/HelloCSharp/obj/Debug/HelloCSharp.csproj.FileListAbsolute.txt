@@ -6,3 +6,4 @@ C:\JSTrenning\CSharp\Intro-Programming-Homework\HelloCSharp\HelloCSharp\obj\Debu
 C:\JSTrenning\TelerikAcademyCSharp\HelloCSharp\HelloCSharp\bin\Debug\HelloCSharp.exe.config
 C:\JSTrenning\TelerikAcademyCSharp\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.exe
 C:\JSTrenning\TelerikAcademyCSharp\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.pdb
+C:\JSTrenning\TelerikAcademyCSharp\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.csprojResolveAssemblyReference.cache

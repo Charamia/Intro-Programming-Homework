@@ -1,0 +1,6 @@
+C:\JSTrenning\TelerikAcademyCSharp\FibonacciNumbers\bin\Debug\FibonacciNumbers.exe.config
+C:\JSTrenning\TelerikAcademyCSharp\FibonacciNumbers\bin\Debug\FibonacciNumbers.exe
+C:\JSTrenning\TelerikAcademyCSharp\FibonacciNumbers\bin\Debug\FibonacciNumbers.pdb
+C:\JSTrenning\TelerikAcademyCSharp\FibonacciNumbers\obj\Debug\FibonacciNumbers.csprojResolveAssemblyReference.cache
+C:\JSTrenning\TelerikAcademyCSharp\FibonacciNumbers\obj\Debug\FibonacciNumbers.exe
+C:\JSTrenning\TelerikAcademyCSharp\FibonacciNumbers\obj\Debug\FibonacciNumbers.pdb

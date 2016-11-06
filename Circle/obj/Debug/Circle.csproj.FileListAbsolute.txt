@@ -1,0 +1,6 @@
+C:\JSTrenning\TelerikAcademyCSharp\Circle\bin\Debug\Circle.exe.config
+C:\JSTrenning\TelerikAcademyCSharp\Circle\bin\Debug\Circle.exe
+C:\JSTrenning\TelerikAcademyCSharp\Circle\bin\Debug\Circle.pdb
+C:\JSTrenning\TelerikAcademyCSharp\Circle\obj\Debug\Circle.csprojResolveAssemblyReference.cache
+C:\JSTrenning\TelerikAcademyCSharp\Circle\obj\Debug\Circle.exe
+C:\JSTrenning\TelerikAcademyCSharp\Circle\obj\Debug\Circle.pdb

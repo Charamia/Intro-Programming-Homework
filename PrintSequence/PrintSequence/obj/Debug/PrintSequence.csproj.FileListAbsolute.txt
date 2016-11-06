@@ -6,3 +6,5 @@ C:\JSTrenning\CSharp\Intro-Programming-Homework\PrintSequence\PrintSequence\obj\
 C:\JSTrenning\TelerikAcademyCSharp\PrintSequence\PrintSequence\bin\Debug\PrintSequence.exe.config
 C:\JSTrenning\TelerikAcademyCSharp\PrintSequence\PrintSequence\obj\Debug\PrintSequence.exe
 C:\JSTrenning\TelerikAcademyCSharp\PrintSequence\PrintSequence\obj\Debug\PrintSequence.pdb
+C:\JSTrenning\TelerikAcademyCSharp\PrintSequence\PrintSequence\bin\Debug\PrintSequence.exe
+C:\JSTrenning\TelerikAcademyCSharp\PrintSequence\PrintSequence\bin\Debug\PrintSequence.pdb

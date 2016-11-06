@@ -1,0 +1,5 @@
+C:\JSTrenning\TelerikAcademyCSharp\NumbersFom1toN\bin\Debug\NumbersFom1toN.exe.config
+C:\JSTrenning\TelerikAcademyCSharp\NumbersFom1toN\bin\Debug\NumbersFom1toN.exe
+C:\JSTrenning\TelerikAcademyCSharp\NumbersFom1toN\bin\Debug\NumbersFom1toN.pdb
+C:\JSTrenning\TelerikAcademyCSharp\NumbersFom1toN\obj\Debug\NumbersFom1toN.exe
+C:\JSTrenning\TelerikAcademyCSharp\NumbersFom1toN\obj\Debug\NumbersFom1toN.pdb

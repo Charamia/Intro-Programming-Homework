@@ -7,3 +7,6 @@ C:\JSTrenning\CSharp\Intro-Programming-Homework\MyFirstCSharp\MyFirstCSharp\obj\
 C:\JSTrenning\TelerikAcademyCSharp\MyFirstCSharp\MyFirstCSharp\bin\Debug\MyFirstCSharp.exe.config
 C:\JSTrenning\TelerikAcademyCSharp\MyFirstCSharp\MyFirstCSharp\obj\Debug\MyFirstCSharp.exe
 C:\JSTrenning\TelerikAcademyCSharp\MyFirstCSharp\MyFirstCSharp\obj\Debug\MyFirstCSharp.pdb
+C:\JSTrenning\TelerikAcademyCSharp\MyFirstCSharp\MyFirstCSharp\bin\Debug\MyFirstCSharp.exe
+C:\JSTrenning\TelerikAcademyCSharp\MyFirstCSharp\MyFirstCSharp\bin\Debug\MyFirstCSharp.pdb
+C:\JSTrenning\TelerikAcademyCSharp\MyFirstCSharp\MyFirstCSharp\obj\Debug\MyFirstCSharp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\JSTrenning\TelerikAcademyCSharp\SumOf5numbers\bin\Debug\SumOf5numbers.exe.config
+C:\JSTrenning\TelerikAcademyCSharp\SumOf5numbers\bin\Debug\SumOf5numbers.exe
+C:\JSTrenning\TelerikAcademyCSharp\SumOf5numbers\bin\Debug\SumOf5numbers.pdb
+C:\JSTrenning\TelerikAcademyCSharp\SumOf5numbers\obj\Debug\SumOf5numbers.exe
+C:\JSTrenning\TelerikAcademyCSharp\SumOf5numbers\obj\Debug\SumOf5numbers.pdb

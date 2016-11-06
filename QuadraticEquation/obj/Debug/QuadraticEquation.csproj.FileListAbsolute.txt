@@ -1,0 +1,6 @@
+C:\JSTrenning\TelerikAcademyCSharp\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+C:\JSTrenning\TelerikAcademyCSharp\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+C:\JSTrenning\TelerikAcademyCSharp\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+C:\JSTrenning\TelerikAcademyCSharp\QuadraticEquation\obj\Debug\QuadraticEquation.csprojResolveAssemblyReference.cache
+C:\JSTrenning\TelerikAcademyCSharp\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+C:\JSTrenning\TelerikAcademyCSharp\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

@@ -1,0 +1,6 @@
+C:\JSTrenning\TelerikAcademyCSharp\SumofNnumbers\bin\Debug\SumofNnumbers.exe.config
+C:\JSTrenning\TelerikAcademyCSharp\SumofNnumbers\bin\Debug\SumofNnumbers.exe
+C:\JSTrenning\TelerikAcademyCSharp\SumofNnumbers\bin\Debug\SumofNnumbers.pdb
+C:\JSTrenning\TelerikAcademyCSharp\SumofNnumbers\obj\Debug\SumofNnumbers.csprojResolveAssemblyReference.cache
+C:\JSTrenning\TelerikAcademyCSharp\SumofNnumbers\obj\Debug\SumofNnumbers.exe
+C:\JSTrenning\TelerikAcademyCSharp\SumofNnumbers\obj\Debug\SumofNnumbers.pdb

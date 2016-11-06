@@ -1,0 +1,5 @@
+C:\JSTrenning\TelerikAcademyCSharp\NumberComparer\bin\Debug\NumberComparer.exe.config
+C:\JSTrenning\TelerikAcademyCSharp\NumberComparer\bin\Debug\NumberComparer.exe
+C:\JSTrenning\TelerikAcademyCSharp\NumberComparer\bin\Debug\NumberComparer.pdb
+C:\JSTrenning\TelerikAcademyCSharp\NumberComparer\obj\Debug\NumberComparer.exe
+C:\JSTrenning\TelerikAcademyCSharp\NumberComparer\obj\Debug\NumberComparer.pdb
